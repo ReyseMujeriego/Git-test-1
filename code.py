@@ -1,2 +1,2 @@
-from datetime import datetime
-print("Hola muy buenas !")
+from module import obtenir_temps
+print(obtenir_temps)
